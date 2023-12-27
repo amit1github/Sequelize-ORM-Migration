@@ -1,5 +1,5 @@
 
-# BOILERPLATE BACKEND
+# To understand HOW ORM & Migration Works:
 
 This repository serves as a fundamental boilerplate for swiftly setting up a backend infrastructure. When initiating the cloning process locally, be sure to replace the main branch repository URL with your own.
 
