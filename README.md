@@ -1,11 +1,6 @@
 
 # To understand HOW ORM & Migration Works:
 
-This repository serves as a fundamental boilerplate for swiftly setting up a backend infrastructure. When initiating the cloning process locally, be sure to replace the main branch repository URL with your own.
-
-
-## Features Included
-
 - **Basic Folder Structure:** Organized directory layout for a clean and scalable project.
 
 - **Database Connectivity:** Seamless integration with MySQL using Sequelize, offering robust success and error handling for database interactions.
@@ -17,17 +12,6 @@ This repository serves as a fundamental boilerplate for swiftly setting up a bac
 - **Basic Models:** Pre-configured models for User and Role, facilitating a quick start to building user-centric applications.
 
 - **Git Configuration:** Initial Git setup with a .gitignore file tailored for Node.js projects, ensuring that unnecessary files are excluded from version control.
-
-
-## Tech Stack
-
-**Server:** Node.js, Express
-
-**Database:** MySQL
-
-**ORM:** Sequelize
-
-**CLI for Sequelize:** Sequelize-CLI
 
 
 ## Getting Started
